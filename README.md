@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasm1999, in real life Marya Vasnecova.
-- 👀 I’m interested in code.
+- 👀 I’m interested in code, AL.
 - 🌱 I’m currently learning marketplace manager.
 
 
